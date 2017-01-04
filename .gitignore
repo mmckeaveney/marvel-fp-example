@@ -1,0 +1,48 @@
+# Emacs temporary files
+*~
+\#*
+*\#
+
+# Bower
+public/vendor
+
+# Node
+node_modules
+npm-debug.log*
+lib/
+
+# Dependencies
+bower_components
+
+# Sass
+.sass-cache
+
+# Webstorm/intellij files
+.idea
+*.iml
+
+# Other
+nohup.out
+
+# IDE settings
+.idea
+
+# Built files
+dist
+public
+src/fonts
+lib/
+
+
+
+# React temp
+tmp
+
+# Code coverage
+coverage
+
+# Mac files
+.DS_Store
+
+# keys
+keys.js

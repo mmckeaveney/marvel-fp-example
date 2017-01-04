@@ -1,0 +1,29 @@
+{
+  "name": "marvel-fp-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmckeaveney/marvel-fp-example.git"
+  },
+  "author": "Martin McKeaveney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckeaveney/marvel-fp-example/issues"
+  },
+  "homepage": "https://github.com/mmckeaveney/marvel-fp-example#readme",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "data.either": "^1.4.0",
+    "data.maybe": "^1.2.2",
+    "data.task": "^3.1.1",
+    "immutable": "^3.8.1",
+    "immutable-ext": "^1.0.8",
+    "ramda": "^0.23.0",
+    "request": "^2.79.0"
+  }
+}
