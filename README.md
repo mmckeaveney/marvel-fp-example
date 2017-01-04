@@ -1,4 +1,9 @@
-# marvel-fp-example
+# Marvel Functional vs Imperative Programming Example (JS)
+
+<p align="center">
+  <img src="http://ep.yimg.com/ay/stylinonline/marvel-46.jpg"/>
+</p>
+
 Interactions with the Marvel comics API using only pure functional constructs. You can pass in several superheroes as command line arguments, and the app will show you all the marvel comic book series that they appear together in.
 
 This little example shows the power of using pure functional programming constructs instead vs mutable and imperative logic. Both of these applications do exactly the same thing, however the code could not be more different.
