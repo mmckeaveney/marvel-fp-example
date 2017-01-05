@@ -46,4 +46,6 @@ eg. ``` node index.js Hulk Spider-Man Deadpool ```
     description: null } ]
 ```
 
+Note that this is a rather simple implementation and does not show anywhere near the amount of data the Marvel API returns. There are many different endpoints that can return any data from Marvel including superheroes, comics, events and even the writers and creators of the comics or characters. The data goes back from the start of Marvel, which is over 70 years ago! Check it out at - https://developer.marvel.com/docs
+
 Author: Martin McKeaveney
