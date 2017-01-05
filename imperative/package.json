@@ -9,6 +9,7 @@
   "author": "Martin McKeaveney",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^0.0.3",
     "request": "^2.79.0"
   }
 }
